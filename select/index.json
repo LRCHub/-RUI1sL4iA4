@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "結び (retake)",
+  "base_artist": "This is LAST",
+  "createdAt": "2025-12-04T18:17:49.341201Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "結び (retake)",
+      "artist": "This is LAST",
+      "has_synced": false,
+      "path": "select/01_結び_(retake)_This_is_LAST.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "結び",
+      "artist": "This is LAST",
+      "has_synced": false,
+      "path": "select/pl_01_結び_This_is_LAST.txt"
+    }
+  ]
+}
